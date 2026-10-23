@@ -2,3 +2,4 @@
 
 - banner-1920x1080.png
 - banner-1440x1080.png
+- banner-1200x500.png
